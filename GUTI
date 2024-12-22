@@ -1,0 +1,5 @@
+from string import printable
+
+
+a=3
+print(a)
